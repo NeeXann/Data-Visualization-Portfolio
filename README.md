@@ -3,7 +3,7 @@
 Here are some public Tableau Charts that I made.
 
 ### Unboxing Towards Sustainable E-Commerce
--Entry for ASEAN Data Science Explorers 2022 Competition (National Finalist)
+- Entry for ASEAN Data Science Explorers 2022 Competition (National Finalist)
 https://drive.google.com/file/d/15fln9Bunf6R3101C5oaC_9zTiwP7KID7/view?usp=sharing
 
 ### Mathematical Modeling Research Presentation
