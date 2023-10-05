@@ -1,6 +1,6 @@
-# Public-Tableau-Lists
+# Data Visualization Lists
 
-Here are some public Tableau Charts that I made.
+Here are some Data Visualization Charts that I made.
 
 ### Unboxing Towards Sustainable E-Commerce
 - Entry for ASEAN Data Science Explorers 2022 Competition (National Finalist)
