@@ -3,14 +3,18 @@
 Here are some Data Visualization Charts that I made.
 
 ### Unboxing Towards Sustainable E-Commerce
-- Entry for ASEAN Data Science Explorers 2022 Competition (National Finalist)
+- Entry for ASEAN Data Science Explorers 2022 Competition utilizing SAP Analytics Cloud for Data Visualization (National Finalist)
 https://drive.google.com/file/d/15fln9Bunf6R3101C5oaC_9zTiwP7KID7/view?usp=sharing
-
-### Mathematical Modeling Research Presentation
-- A visual presentation talking about mathematical modeling of Foot and Moth disease in Japan.
-https://drive.google.com/file/d/1Jvf_9fyQ3X5rwQcWw_GSmfZt8NCmZbjP/view?usp=sharing
 
 ### Conflict War Data Chart in Philippines (2020)
 - Tableau Repository that I made using the Conflict Data in PH at 2020.
 https://public.tableau.com/views/ConflictWarPH/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+### Adventure WOrks Power BI Dashboard
+- Executive Sale Summary using Adventure Works dataset through Power BI
+https://drive.google.com/file/d/1OT59I2nlgEXoN5q_KAOQyjYnTKU6M_XQ/view?usp=sharing
+
+### Mathematical Modeling Research Presentation
+- A visual presentation talking about mathematical modeling of Foot and Moth disease in Japan.
+https://drive.google.com/file/d/1Jvf_9fyQ3X5rwQcWw_GSmfZt8NCmZbjP/view?usp=sharing
 
